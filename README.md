@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a second-year Software Engineering student at Işık University, and I'm also studying Computer Programming at Marmara University. The idea of software development and designing applications has interested me since childhood. It makes me feel good to constantly learn new things and improve myself in my desired field.<br>
+I am a fourth-year Software Engineering student at Işık University, and I'm also studying Computer Programming at Marmara University. The idea of software development and designing applications has interested me since childhood. It makes me feel good to constantly learn new things and improve myself in my desired field.<br>
 
 
 ## 🌐 Socials:
